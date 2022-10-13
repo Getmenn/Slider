@@ -258,12 +258,12 @@ li.slider-button {
 
 }
 
-.slider .slideImage.activ
+.slideImage.activ
 {
     opacity: 1; 
 }
 
-.slider .slideImage
+.slideImage
 {
     background-size: cover;
     background-position: center center;
